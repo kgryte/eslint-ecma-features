@@ -1,6 +1,6 @@
 {
   "name": "eslint-ecma-features",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ESLint JavaScript language options.",
   "author": {
     "name": "Athan Reines",
